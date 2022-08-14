@@ -1,4 +1,4 @@
-<!-- ![Lakshmanan Meiyappan Banner Image](./banner.png) -->
+![Vansh Gala Banner Image](./banner.png)
 <!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
@@ -10,7 +10,7 @@ I'm Vansh Gala!
 - <i>Currently:</i> Computer Engineering Student at Shah & Anchor Kutchhi Engineering College . 
 <!-- - <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation. -->
 
-<h2>💻 I'm Currently workng on</h2>
+<h2>💻 I'm Currently working on</h2>
 
 - Ethical Hacking
 - Software Engineering
@@ -55,4 +55,4 @@ I'm a UnderGraduate Student living in Mumbai. Outside Tech, I love to read, enjo
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:vanshjagani2002@gmail.com">![vanshjagani2002@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="www.linkedin.com/in/vansh-gala">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:vanshjagani2002@gmail.com">![vanshjagani2002@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="www.linkedin.com/in/vansh-gala/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
