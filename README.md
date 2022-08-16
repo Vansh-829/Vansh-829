@@ -6,9 +6,10 @@
 
 I'm Vansh Gala! 
 - <i>Currently:</i> Computer Engineering Student at Shah & Anchor Kutchhi Engineering College . 
-<!-- - <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation. -->
+
 
 <h2>💻 Internships</h2>
+
 - <i>Ongoing :</i> Intern at AS-44 .<br>Skills : Web Development , PHP ,Mysql , Ajax , Javascript
 
 
@@ -35,16 +36,10 @@ I'm Vansh Gala!
 <h2>👀 Stats</h2> -->
 
 <div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
+
   <p align="center">
-  <!-- <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmena" alt="GitHub Stats" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" /> -->
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh-829" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
 
@@ -52,8 +47,7 @@ I'm Vansh Gala!
 
 I'm a UnderGraduate Student living in Mumbai. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Mumbai, drop an email and let's catch-up over Coffee!
  
-<!-- - Check out my Blog: [https://laxmena.com](https://laxmena.com) -->
-<!-- - Know more about me: [About Laxmena](https://laxmena.com/pages/about) -->
+
 - Write to me: [vanshjagani2002@gmail.com](mailto:vanshjagani2002@gmail.com)
 
 <h2>📫 How to reach me:</h2>
