@@ -1,10 +1,8 @@
 ![Vansh Gala Banner Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
 <h2>Hey! 👋</h2>
 
-<!-- [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers) -->
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Vansh-829.Vansh-829)](https://github.com/Vansh-829) [![GitHub followers](https://img.shields.io/github/followers/Vansh-829.svg?style=social&label=Follow)](https://github.com/Vansh-829?tab=followers)
 
 I'm Vansh Gala! 
 - <i>Currently:</i> Computer Engineering Student at Shah & Anchor Kutchhi Engineering College . 
@@ -16,7 +14,7 @@ I'm Vansh Gala!
 - Software Engineering
 
 
-__Check out my GitHub repository:__
+<!-- __Check out my GitHub repository:__
 
 <div>
   <p>
@@ -29,7 +27,7 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
-<h2>👀 Stats</h2>
+<h2>👀 Stats</h2> -->
 
 <div>
 <!--   <p align="center">
