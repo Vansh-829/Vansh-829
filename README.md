@@ -8,6 +8,11 @@ I'm Vansh Gala!
 - <i>Currently:</i> Computer Engineering Student at Shah & Anchor Kutchhi Engineering College . 
 <!-- - <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation. -->
 
+<h2>💻 Internships</h2>
+- <i>Ongoing :</i> Intern at AS-44 .<br>Skills : Web Development , PHP ,Mysql , Ajax , Javascript
+
+
+
 <h2>💻 I'm Currently working on</h2>
 
 - Ethical Hacking
