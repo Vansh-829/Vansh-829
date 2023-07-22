@@ -10,7 +10,7 @@ I'm Vansh Gala!
 
 <h2>💻 Internships</h2>
 
-- <i>Ongoing :</i> Intern at AS-44 .<br>Skills : Web Development , PHP ,Mysql , Ajax , Javascript
+- <i>Completed :</i> Intern at AS-44 .<br>Skills : Web Development , PHP ,Mysql , Ajax , Javascript
 
 
 
